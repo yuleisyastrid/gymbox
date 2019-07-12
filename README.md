@@ -1,1 +1,2 @@
-# gymbox
+# GymTemplate
+This is a Template

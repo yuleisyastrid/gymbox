@@ -1,0 +1,174 @@
+.i:hover{
+	background: #E62026;
+}
+.i{
+	padding: 5px !important;
+	color:#F2F2F2;
+}
+.p{
+	padding: 5px !important;
+	color:#E62026;
+}
+.e{
+	background: #1C1C1C;
+	width: 100%;
+	background: url("../image/1.jpg");
+	background-size: cover;
+	height: 500px !important;
+	padding: 0;
+}
+.a{
+	background: #1C1C1C;
+	width: 100% !important;
+	margin:0 !important;
+}
+.l{
+	color: #FFF !important ;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-top: 300px;
+
+}
+.g{
+	font-size: 50px !important;
+	font-weight: bolder;
+}
+.pe{
+	margin-top: 40px !important;
+	text-align: center;
+}
+#pe{
+	font-size: 30px !important;
+	font-weight: bolder;
+}
+#pi{
+	padding-left:60px ;
+	padding-right:60px ;
+}
+.q{
+	background: #EC4141;
+	width: 100%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 5%;
+}
+.withoutspaces{
+	margin: 0 !important;
+}
+.red{
+	background-color: red;
+	border-color: red;
+}
+#o{
+	border:1px solid #FFF;
+	margin:0 !important;
+	text-align: center;
+}
+.divcuadro {
+	background-color: #FFF;
+	word-wrap:break-word;
+}
+h1{
+	color:#FFF;
+	font-weight: bolder;
+}
+.pu{
+	color: #FFF;
+}
+.m{
+	text-align: center;
+	background:#1C1C1C;
+	width: 100%;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 5%;
+}
+.wa{
+	margin-top: 10%;
+	padding-bottom: 3%;
+}
+.lkp{
+	text-align: left !important;
+	padding-left: 10px ;
+	padding-right: 10px;
+}
+.ll{
+	background: #656565;
+	width: 100%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 5%;
+}
+.d{
+	text-align: center;
+	margin-top: 55px;
+}
+.da{
+	text-align: center;
+	padding-right: 20%;
+	padding-left: 20%;
+	color: #FFF;
+}
+.lj{
+	color: #FFF;
+}
+.jl{
+	margin-top: 5%;
+}
+.tt{
+	margin-top:6%;
+}
+.rr{
+	padding-bottom: 0 !important;	
+}
+.php{
+	border:1px solid #1C1C1C;
+	text-align:left;
+	word-wrap:break-word;
+	background: #E62026 ;
+	color: #FFF;
+	padding-left: 50px;
+	padding: 10px;
+	width: 100px;
+
+}
+.php:hover{
+	background: blue;
+}
+.gf{
+	padding-left: 1.5%;
+}
+.zzz{
+	background: #1C1C1C;
+	width: 100%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 5%;
+}
+.hh{
+	font-size: 20px;
+	padding-top: 10%;
+}
+hr{
+	background: #FFF;
+	margin: 0 !important;
+}
+.kl{
+	margin-top: 50px;
+	padding: 0 !important;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.gerson{
+	width: 25px;
+	height: 25px;
+	border:0!important;
+}
+span{
+	color: #E62026;
+	background-size: 50px;
+}
+.asd{
+	margin-top: 160% !important;
+	font-size: 300%;	
+}
